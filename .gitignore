@@ -1,0 +1,5 @@
+# 手元だけで使う秘密の値・作業用のファイル（GitHub に上げない）
+.dev.vars
+.wrangler/
+node_modules/
+.DS_Store
